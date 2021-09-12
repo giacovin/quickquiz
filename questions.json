@@ -1,26 +1,5 @@
-[
-  {
-    "question": "Inside which HTML element do we put the JavaScript??",
-    "choice1": "<script>",
-    "choice2": "<javascript>",
-    "choice3": "<js>",
-    "choice4": "<scripting>",
-    "answer": 1
-  },
-  {
-    "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
-    "choice1": "<script href='xxx.js'>",
-    "choice2": "<script name='xxx.js'>",
-    "choice3": "<script src='xxx.js'>",
-    "choice4": "<script file='xxx.js'>",
-    "answer": 3
-  },
-  {
-    "question": " How do you write 'Hello World' in an alert box?",
-    "choice1": "msgBox('Hello World');",
-    "choice2": "alertBox('Hello World');",
-    "choice3": "msg('Hello World');",
-    "choice4": "alert('Hello World');",
-    "answer": 4
-  }
-]
+{"response_code":0,"results": [
+  
+  {"category":"General Knowledge","type":"multiple","difficulty":"easy","question":"Virgin Trains, Virgin Atlantic and Virgin Racing, are all companies owned by which famous entrepreneur?   ","correct_answer":"Richard Banson","incorrect_answers":["Alan Sugar","Donald Trump","Bill Gates"]},
+  {"category":"General Knowledge","type":"multiple","difficulty":"easy","question":"Where is the train station &quot;Llanfair&shy;pwllgwyngyll&shy;gogery&shy;chwyrn&shy;drobwll&shy;llan&shy;tysilio&shy;gogo&shy;goch&quot;?","correct_answer":"Wales","incorrect_answers":["Moldova","Czech Republic","Denmark"]},
+  {"category":"General Knowledge","type":"multiple","difficulty":"easy","question":"Which company did Valve cooperate with in the creation of the Vive?","correct_answer":"HTC","incorrect_answers":["Oculus","Google","Razer"]},{"category":"General Knowledge","type":"multiple","difficulty":"easy","question":"What was the nickname given to the Hughes H-4 Hercules, a heavy transport flying boat which achieved flight in 1947?","correct_answer":"Spruce Goose","incorrect_answers":["Noah&#039;s Ark","Fat Man","Trojan Horse"]},{"category":"General Knowledge","type":"multiple","difficulty":"easy","question":"What is the Spanish word for &quot;donkey&quot;?","correct_answer":"Burro","incorrect_answers":["Caballo","Toro","Perro"]},{"category":"General Knowledge","type":"multiple","difficulty":"easy","question":"What was the first ever London Underground line to be built?","correct_answer":"Metropolitan Line","incorrect_answers":["Circle Line","Bakerloo Line","Victoria Line"]},{"category":"General Knowledge","type":"multiple","difficulty":"easy","question":"What is Cynophobia the fear of?","correct_answer":"Dogs","incorrect_answers":["Birds","Flying","Germs"]},{"category":"General Knowledge","type":"multiple","difficulty":"easy","question":"Who is the youngest person to recieve a Nobel Prize?","correct_answer":"Malala Yousafzai","incorrect_answers":["Lawrence Bragg","Werner Heisenberg","Yasser Arafat"]},{"category":"General Knowledge","type":"multiple","difficulty":"easy","question":"What airline was the owner of the plane that crashed off the coast of Nova Scotia in 1998?","correct_answer":"Swiss Air","incorrect_answers":["Air France","British Airways","TWA"]},{"category":"General Knowledge","type":"multiple","difficulty":"easy","question":"Who invented the first ever chocolate bar, in 1847?","correct_answer":"Joseph Fry","incorrect_answers":["Andrew Johnson","John Cadbury","John Tyler"]}]}
