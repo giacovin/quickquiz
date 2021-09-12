@@ -15,7 +15,7 @@ let questions = [];
 
 fetch(
    // 'https://opentdb.com/api.php?amount=10&category=9&difficulty=easy&type=multiple'
-    'https://github.com/giacovin/quickquiz/questions.json'
+    'https://giacovin.github.io/quickquiz/questions.json'
 )
     .then((res) => {
         return res.json();
